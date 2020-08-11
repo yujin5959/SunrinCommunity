@@ -11,9 +11,9 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:gravity="center"
-        android:text="LOGIN"
+        android:text="세계로 미래로 꿈을 펼치는 선린인터넷고등학교"
         android:textColor="@android:color/holo_blue_dark"
-        android:textSize="24dp"
+        android:textSize="20dp"
         />
 
     <ImageView
@@ -50,8 +50,9 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="40dp"
+        android:textColor="#fff"
         android:text="Log in with SunrininternetHighschool"
-        android:background="#00ff000">
+        android:background="#000080">
     </Button>
 
     <LinearLayout
