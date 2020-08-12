@@ -6,15 +6,15 @@
     android:orientation="vertical"
     android:background="@drawable/grdaient"
     >
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:gravity="center"
-        android:text="세계로 미래로 꿈을 펼치는 선린인터넷고등학교"
+        android:text="LOGIN"
         android:textColor="@android:color/holo_blue_dark"
-        android:textSize="20dp"
-        />
+        android:textSize="20dp" />
 
     <ImageView
         android:layout_width="163dp"
